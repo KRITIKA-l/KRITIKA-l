@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SMILER-KAM&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SMILER-KAM&theme=light)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMILER-KAM&layout=compact&theme=light)
+
 
