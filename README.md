@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRITIKA-l&theme=github-light" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KRITIKA-l&show_icons=true&theme=radical" />
+</p>
